@@ -1,5 +1,5 @@
 {
-  "secretCode": "SKYTZYSIGMA",
+  "secretCode": "OMAGAT",
  "description": "SKYTZY V8 PRO", 
   "lastUpdated": "20/06/2025",
   "author": "SKYTZY OFFICIAL", 
